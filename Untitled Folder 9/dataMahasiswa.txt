@@ -1,0 +1,10 @@
+
+NIM = 202400040007
+Nama = orieza zeta ermansyah
+Alamat = cidahu mentality
+Kelas = TI24
+
+NIM = 2023000500008
+Nama = wily prasetya
+Alamat = cisaat sukabumi
+Kelas = TI23

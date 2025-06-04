@@ -1,0 +1,9 @@
+nim:202400040007
+nama:orieza zeta ermansyah
+alamat:cidahu mentality
+kelas:TI24
+
+nim:2023000500008
+nama:wily prasetya
+alamat:cisaat
+kelas:TI23
